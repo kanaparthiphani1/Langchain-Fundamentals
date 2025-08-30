@@ -45,17 +45,7 @@ It will include **notes, code snippets, mini-projects, and experiments** that I 
 - Create a **personal knowledge base** for reference
 - Develop **real-world mini projects** to strengthen concepts
 - Share my journey openly for others learning the same
-
----
-
-## 🔗 Resources I’m Following
-
-- [LangChain Docs](https://docs.langchain.com)
-- [LangGraph Docs](https://langchain-ai.github.io/langgraph/)
-- [LangSmith Docs](https://docs.smith.langchain.com/)
-- [LangChain YouTube](https://www.youtube.com/@LangChainAI)
-- [Awesome LangChain GitHub](https://github.com/kyrolabs/awesome-langchain)
-
+- 
 ---
 
 ## 🛠️ Tech Stack
@@ -64,12 +54,6 @@ It will include **notes, code snippets, mini-projects, and experiments** that I 
 - **LangChain / LangGraph / LangSmith**
 - **Vector Databases** (FAISS, Pinecone, Weaviate)
 - **LLMs** (OpenAI, Anthropic, Ollama, HuggingFace models)
-
----
-
-## 🤝 Contributing
-
-This is primarily a **personal learning repo**, but if you have suggestions, resources, or corrections, feel free to open an **issue** or **PR**.
 
 ---
 
@@ -82,4 +66,4 @@ This repository is a **work in progress**. I’ll be updating it regularly as I 
 ### 👤 Author
 
 **Phanindra Kanaparthi**  
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+[LinkedIn](https://www.linkedin.com/in/kanaparthi-phani/)
