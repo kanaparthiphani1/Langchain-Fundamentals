@@ -4,3 +4,4 @@ ipykernel
 langchain_community
 pypdf
 bs4
+langchain-text-splitters
