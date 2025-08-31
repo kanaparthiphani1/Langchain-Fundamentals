@@ -28,7 +28,7 @@ def prepare_retriever():
         vectordb = FAISS.load_local(DB_PATH, OllamaEmbeddings(model="gemma:2b") ,allow_dangerous_deserialization=True)
     else:
         # Load and process document
-        loader = WebBaseLoader("https://hellointerview.substack.com/p/design-a-rate-limiter")
+        loader = WebBaseLoader("https://www.bigrock.in/web-hosting/linux-hosting")
         docs = loader.load()
 
         splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
