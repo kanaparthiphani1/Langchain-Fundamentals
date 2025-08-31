@@ -9,3 +9,4 @@ langchain-openai
 chromadb
 langchain-ollama
 faiss-cpu
+streamlit
