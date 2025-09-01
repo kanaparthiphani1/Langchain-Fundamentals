@@ -1,8 +1,8 @@
-# 🚀 AI Agentic Frameworks Learning Repository
+# 🚀 LangChain Fundamentals
 
 Welcome to my learning repository!  
-This repo is dedicated to documenting my journey with **LangChain**, **LangGraph**, **LangSmith**, and other agentic AI tools.  
-It will include **notes, code snippets, mini-projects, and experiments** that I build along the way.
+This repo is dedicated to documenting my journey with **LangChain**, **LangSmith**.  
+It will include ** code snippets, mini-projects, and experiments** that I build along the way.
 
 ---
 
@@ -15,14 +15,7 @@ It will include **notes, code snippets, mini-projects, and experiments** that I 
   - Chains & agents
   - Memory
   - Tools & integrations
-
-- **LangGraph**
-
-  - Graph-based reasoning for agents
-  - Multi-agent workflows
-  - State management
-  - Real-world examples
-
+    
 - **LangSmith**
 
   - Observability & tracing
@@ -30,9 +23,8 @@ It will include **notes, code snippets, mini-projects, and experiments** that I 
   - Debugging and evaluation of LLM apps
 
 - **Other Learnings**
-  - Vector databases (Pinecone, Weaviate, FAISS, etc.)
+  - Vector databases (Chroma, FAISS, etc.)
   - RAG (Retrieval-Augmented Generation) techniques
-  - Deployment patterns
   - Best practices for building production-ready AI apps
 
 ---
@@ -51,7 +43,7 @@ It will include **notes, code snippets, mini-projects, and experiments** that I 
 ## 🛠️ Tech Stack
 
 - **Python 3.10+**
-- **LangChain / LangGraph / LangSmith**
+- **LangChain / LangSmith**
 - **Vector Databases** (FAISS, Pinecone, Weaviate)
 - **LLMs** (OpenAI, Anthropic, Ollama, HuggingFace models)
 
