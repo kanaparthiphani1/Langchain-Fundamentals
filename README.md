@@ -2,7 +2,7 @@
 
 Welcome to my learning repository!  
 This repo is dedicated to documenting my journey with **LangChain**, **LangSmith**.  
-It will include ** code snippets, mini-projects, and experiments** that I build along the way.
+It will include **code snippets, mini-projects, and experiments** that I build along the way.
 
 ---
 
